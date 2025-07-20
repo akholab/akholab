@@ -130,7 +130,7 @@ I'm always interested in collaborating on healthcare technology projects and con
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akholab&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akholab&style=for-the-badge&color=2E8B57" alt="Profile Views" />
   
   *"Innovation in healthcare starts with a single line of code"* 🚀
 </div>
